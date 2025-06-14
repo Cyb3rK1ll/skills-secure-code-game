@@ -5,6 +5,7 @@
 import os
 from flask import Flask, request
 apikey=akwdhajwdhawjkfhwajkfhwajksnmnfm,_qowhdoqiwdowq2421452
+API_KEY = "sk_live_51NzUBTK9eVEGVDo5XMMFfhVfdbP994QI6Sd4UmYOMAGKzKaVp6F30Xpk"
 ### Unrelated to the exercise -- Starts here -- Please ignore
 app = Flask(__name__)
 @app.route("/")
