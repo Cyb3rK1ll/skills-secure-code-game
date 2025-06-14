@@ -4,3 +4,4 @@ flask
 flask-testing
 blinker
 requests
+API_KEY = "sk_live_51NzUBTK9eVEGVDo5XMMFfhVfdbP994QI6Sd4UmYOMAGKzKaVp6F30Xpk"
